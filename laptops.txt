@@ -1,0 +1,7 @@
+MacBook Air, Apple, $999.0, 11, Intel Core i5, Intel Core i5
+Razer Blade, Razer, $2000.0, 19, i7 7th Gen, i7 7th Gen
+XPS, Dell, $1976.0, 15, i5 9th Gen, i5 9th Gen
+Alienware, Alienware, $1978.0, 24, i5 9th Gen, i5 9th Gen
+Swift 7, Acer, $900.0, 13, i5 9th Gen, i5 9th Gen
+Macbook Pro 16, Apple, $3500.0, 10, i5 9th Gen, i5 9th Gen
+Huawei, Huawei, $1200.0, 12, Intel, RTX 3060
